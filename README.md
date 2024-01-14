@@ -1,6 +1,6 @@
 # Hi ! I'm Alba0404 ! :)
 
-Electronic engineer I'm an open-source fan so you wille fin some of my projects bellow :
+Electronic engineer I'm an open-source fan so you will find some of my projects bellow :
 
  ### KiCad's related projects
   * [Oldschool KiCad Repository](https://github.com/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository) KiCad repository to centralise libraries about old computers and electronics devices.
