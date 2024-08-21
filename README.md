@@ -3,7 +3,7 @@
 Electronic engineer I'm an open-source fan so you will find some of my projects bellow :
 
  ### ![KiCad logo](icon_kicad-22px.png) KiCad's related projects
-  * [Oldschool KiCad Repository](https://github.com/Oldschool-Computers-KiCad-repository/oldschool-kicad-repository) KiCad repository to centralise libraries about old computers and electronics devices.
+  * [Oldschool KiCad Repository](https://github.com/Oldschool-Computers-KiCad-repository) KiCad repository to centralise libraries about old computers and electronics devices.
   * [KiCad Symbol Library for GPIB components](https://github.com/Alba0404/gpib-kicad-library) Add GPIB components and connectors to KiCad.
 
 ### 🏁 Finished projects
