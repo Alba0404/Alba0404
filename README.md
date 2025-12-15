@@ -4,7 +4,10 @@ Electronic engineer I'm an open-source fan so you will find some of my projects 
 
  ### ![KiCad logo](icon_kicad-22px.png) KiCad's related projects
   * [Oldschool KiCad Repository](https://github.com/Oldschool-Computers-KiCad-repository) KiCad repository to centralise libraries about old computers and electronics devices.
-  * [KiCad Symbol Library for GPIB components](https://github.com/Alba0404/gpib-kicad-library) Add GPIB components and connectors to KiCad.
+    * [KiCad Symbol Library for GPIB components](https://github.com/Alba0404/gpib-kicad-library)
+    * [KiCad Symbol Library for Tektronix components](https://github.com/Oldschool-Computers-KiCad-repository/tektronix-kicad-library)
+    * [KiCad Symbol Library for Zilog Z80, Z84, Z8000, ... components](https://github.com/Oldschool-Computers-KiCad-repository/z80-kicad-library)
+    * [KiCad Library for UART interfaces from MaxLinear](https://github.com/Oldschool-Computers-KiCad-repository/Interface_UART_MaxLinear)
 
 ### 🏁 Finished projects
   * 💾 [Raspi-Mini](https://github.com/Alba0404/Raspi-Mini) 3615 Raspberry ;) ou comment redonner vie à un Minitel.
